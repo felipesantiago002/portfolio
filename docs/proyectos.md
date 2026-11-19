@@ -32,6 +32,12 @@ Contabilidad en USDC vía Uniswap V2, protección contra slippage, oráculo de p
 - CRM de WhatsApp con agente IA
 - App de gimnasio
 
+## Futuro: laboratorios de ciberseguridad
+Se van a agregar más adelante, como categoría propia junto a los proyectos de desarrollo.
+- Formato tentativo por lab: objetivo, herramientas, pasos clave, qué aprendí. Capturas sin datos sensibles.
+- Plataformas: si son de HTB o similares, publicar solo writeups permitidos (por ejemplo, máquinas retiradas).
+- El sitio tiene que estar preparado para esto desde el principio: categorías/filtros en el carrusel y páginas de detalle con soporte para bloques de código.
+
 ## Fuera
 BPM, SistemasDistribuidos (vacío), TPs Java (AyDs, Progra 3), forks (harness-sdd, NuvioTV).
 
